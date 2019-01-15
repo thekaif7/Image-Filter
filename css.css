@@ -1,0 +1,12 @@
+body{
+    color: white;
+    background-image: url("img/bg.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Staatliches', cursive
+
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    border: solid 1px red;
+    background-color: yellowgreen;
+}
