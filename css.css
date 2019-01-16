@@ -6,7 +6,16 @@ body{
 
 }
 h1{
-    font-family: 'Anton', sans-serif;
-    border: solid 1px red;
-    background-color: yellowgreen;
+    font-family: 'Pacifico', cursive;
+    border: solid 1px white;
+    background-color: #FF5958;
 }
+div {
+    color: black;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: #FFE2BF;
+  }
