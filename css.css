@@ -13,9 +13,14 @@ h1{
 div {
     color: black;
     border: 1px solid black;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    background-color: #FFE2BF;
+    margin-right: 100px;
+    margin-left: 650px;
+    width: 250px;
+    height: 100px
+    background-color: #c3c3c3;
+  }
+  canvas{
+      border: 1px solid #c3c3c3
   }
