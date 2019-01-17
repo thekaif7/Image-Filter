@@ -7,6 +7,7 @@
     <title>A basic image filter website</title>
     <link rel="stylesheet" href="css.css">
     <link href="https://fonts.googleapis.com/css?family=Coiny" rel="stylesheet">
+    <script type="text/javascript" src="js.js"></script>
 </head>
 <body>
     <center>
@@ -14,8 +15,15 @@
         <hr />
     </center>
     <div>
-        <p>A basic Image Filter Website </p>
+        <p><center>A basic Image Filter Website</center> </p>
     </div>
+    <canvas id="can"></canvas>
+    <p>
+        <input type="button" value="Color change" onclick="colorchange()" />
+    </p>
     
+    <p>
+        <input type="button" value="reset" onclick="reset()" />
+    </p>
 </body>
 </html>
