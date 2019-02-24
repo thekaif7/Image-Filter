@@ -1,29 +1,13 @@
-body{
-    color: white;
-    background-image: url("img/bg.jpg");
-    background-repeat: no-repeat;
-    font-family: 'Staatliches', cursive
 
-}
-h1{
-    font-family: 'Pacifico', cursive;
-    border: solid 1px white;
-    background-color: #FF5958;
-}
-div {
-    color: black;
-    border: 1px solid black;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    margin-right: 100px;
-    margin-left: 650px;
-    width: 250px;
-    height: 50px;
-    background-color: #FF5958;
- 
-  }
+
   canvas{
      border: 2px solid red;
      width: 500px;
      height: 300px;
   }
+  canvas{
+    width:400;
+    height:auto
+    border: 1px solid red;
+  }
+  
